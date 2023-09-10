@@ -3,6 +3,7 @@ $nutrition = [
     'fat'   => 42,
     'sugar' => 60,
     'salt'  => 3.5,
+    'protein' =>2.6,
 ];
 ?>
 <!DOCTYPE html>
